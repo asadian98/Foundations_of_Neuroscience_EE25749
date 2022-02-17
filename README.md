@@ -9,7 +9,17 @@ Instructor: Dr. Ali Ghazizadeh; Fall 2021
 Despite wide studies concerning the motor cortex, there are still uncertainties about how neuron activities are related to different aspects of a specific task. Fortunately, using massively parallel recordings, we can investigate the effects of different events in neuron firings of
 small areas with high temporal and spatial resolution. In this project, we used electrophysiological recordings data from one macaque monkey during an instructed delayed reach-to-grasp task to compare M1 and PMd neuronal spike trains during different tasks. The tasks consist of four classes that differ in force or gesture of Macaque’s grasp. Our analysis reveals that the SR-ON events affect neurons in M1 and PMd more than other events. In addition, M1 neurons’ firing rates are much more than PMd after this particular event. Moreover, low force (LF) trials have higher neuron firing rates than high force (HF) trials. Furthermore, Neuron firing rates’ peaks in side-grip (SG) trials occur earlier than precision-grip trials.
 
-![Macq](https://user-images.githubusercontent.com/94138466/154534224-5216d172-d41d-47c6-9300-a1e612472a64.jpg)<center>*Chronological order of task and events during the reach-to-grasp*</center>
+
+<p align="center">
+  <img src="/figures/Macq.jpg" alt>
+</p>
+<p align="center">
+  <em>Fig. 1. Chronological order of task and events during the reach-to-grasp</em>
+</p>
+
+Previous studies suggest that the activity of neurons is a function of different properties of a particular task (1). In this regard, (5) developed a deep learning method to decode kinematics precisely. They combined ESA and QRNN algorithms, claiming their result is accurate. However, they did not use various test data. (6) observed heterogeneous and complex patterns in the response of rapid arm reach. They claimed that a single-neuron recording might clarify the properties of movement. On the other hand, some other studies imply that neuron activities form a dynamical system responsible for generating and controlling muscle movements. In this state, (7) suggested methods that use neuron population responses and their correlation with Electromyography (EMG) signal. They concluded that for evaluating the single-neuron response, representational models contain parameters of different aspects of movement, and dynamical models should contain underlying dynamics of movement. Also, they could not extract much information about movement properties for population-level recordings, and responses depended only on the initial state. Using dataset acquired by (4), we obtain observations regarding the relationship between neural activities and the subject's actions. Also (9) used this dataset to clarify how each task coded or translated for movement system.
+
+During a reach-to-grasp experiment, a macaque monkey was instructed to do motor tasks. Electrophysiological data were recorded in the motor cortex using 10-by-10 Utah electrode arrays. By analyzing the neuronal spike trains for each event, we discovered which event makes neurons spike more. Moreover, we compared neuron firing rate differences between M1 and PMd in four different tasks and declared the result. In addition, we inspected some hints about how each characteristics is interpreted by different neurons, but comprehensive disquisition was postponed to the future.
 
 ## References
 
