@@ -12,6 +12,12 @@ small areas with high temporal and spatial resolution. In this project, we used 
 ![Macq](https://user-images.githubusercontent.com/94138466/154534224-5216d172-d41d-47c6-9300-a1e612472a64.jpg)
 <figcaption>Chronological order of task and events during the reach-to-grasp.</figcaption>
 
+img + br + em {
+    font-style: normal;
+    display: inherit;
+    text-align: center;
+    font-size: 90%;
+}
 
 ## References
 
