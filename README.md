@@ -1,6 +1,8 @@
-# Deep Learning HW1
+# Foundations of Neuroscience Course
 
+Final Project of Foundations of Neuroscience course (EE-25647) @ Sharif University of Technology.
 
-*   **Some theoretical ML questions**: HW1_theory.pdf
-*   **Sign Language Recognition using TensorFlow**: Sign_Language_Recognition.ipynb
-*   **CartPole (RL)**: CartPole.ipynb, CartPole_output
+Instructor: Dr.Ali Ghazizadeh; Fall 2021
+**
+Analysis of Neuronal Spike Trains in Macaque Motor Cortex During an Instructed Delayed Reach-to-Grasp Task
+**
