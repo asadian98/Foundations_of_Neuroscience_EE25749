@@ -17,3 +17,11 @@ small areas with high temporal and spatial resolution. In this project, we used 
 3. David Dahmen, Sonja Grün, Markus Diesmann, and Moritz Helias. Second type of criticality in the brain uncovers rich multiple-neuron dynamics. Proceedings of the National Academy of Sciences, 116(26):13051–13060, 2019.
 4. Alexa Riehle, Thomas Brochier, Martin Nawrot, and Sonja Grün. Behavioral context determines network state and variability dynamics in monkey motor cortex. Frontiers in Neural Circuits, 12, 2018.
 5. Nur Ahmadi, Timothy G. Constandinou, and Christos-Savvas Bouganis. Robust and accurate decoding of hand kinematics from entire spiking activity using deep learning. 2020.
+6. Mark M. Churchland and Krishna V. Shenoy. Temporal complexity and heterogeneity of singleneuron activity in premotor and motor cortex. Journal of Neurophysiology, 97(6):4235–4257, 2007. 
+7. Mark M. Churchland, John P. Cunningham, Matthew T. Kaufman, Justin D. Foster, Paul Nuyujukian, Stephen I. Ryu, and Krishna V. Shenoy. Neural population dynamics during
+reaching. Nature, 487(7405):51–56, 2012.
+8. Thomas Brochier, Lyuba Zehl, Yaoyao Hao, Margaux Duret, Julia Sprenger, Michael Denker, Sonja Grün, and Alexa Riehle. Massively parallel recordings in macaque motor cortex during an instructed delayed reach-to-grasp task. Scientific Data, 5(1), 2018.
+9. Michael Denker, Lyuba Zehl, Bjørg E. Kilavik, Markus Diesmann, Thomas Brochier, Alexa Riehle, and Sonja Grün. Lfp beta amplitude is linked to mesoscopic spatio-temporal phase
+patterns. Scientific Reports, 8(1), 2018.
+10. Robert E. Kass, Uri T. Eden, and Emery N. Brown. Analysis of Neural Data. Springer New York, 2014.
+11. Simon Thorpe, Denis Fize, and Catherine Marlot. Speed of processing in the human visual system. Nature, 381(6582):520–522, 1996.
