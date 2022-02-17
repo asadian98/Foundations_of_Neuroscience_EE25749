@@ -4,6 +4,8 @@ Final Project of **Foundations of Neuroscience** course (EE-25647) @ Sharif Univ
 
 Instructor: Dr. Ali Ghazizadeh; Fall 2021
 
+Authors: Amirhossein Asadian, Alireza Khosaparast, Mahdi Babaei
+
 ## Analysis of Neuronal Spike Trains in Macaque Motor Cortex During an Instructed Delayed Reach-to-Grasp Task
 
 Despite wide studies concerning the motor cortex, there are still uncertainties about how neuron activities are related to different aspects of a specific task. Fortunately, using massively parallel recordings, we can investigate the effects of different events in neuron firings of
