@@ -71,7 +71,7 @@ We define sensitivity to events as how many spikes fired after a particular even
 Based on general observation,  all raster plots and PETH diagrams were observed. According to (11), the delay between receiving a signal by a visionary system and its interpretation toward motor reaction is around 150ms. So the neural responses are observed in this window after the events. From this observation we make this hypothesis that most neurons have intensive responses to SR-ON and HS-ON events. Mostly SR-ON (Figure 4).
 
 <p align="center">
-  <img width="500" src="/figures/PETH_all.jpg" alt>
+  <img width="500" src="/figures/PETH_all_2.jpg" alt>
 </p>
 <p align="center">
   <img width="500" src="/figures/PETH_all_types.jpg" alt>
