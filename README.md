@@ -171,6 +171,3 @@ patterns. Scientific Reports, 8(1), 2018.
 10. Robert E. Kass, Uri T. Eden, and Emery N. Brown. Analysis of Neural Data. Springer New York, 2014.
 11. Simon Thorpe, Denis Fize, and Catherine Marlot. Speed of processing in the human visual system. Nature, 381(6582):520–522, 1996.
 
-
-
-
